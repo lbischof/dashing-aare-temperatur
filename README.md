@@ -1,6 +1,9 @@
 # Preview
 ![](https://raw.githubusercontent.com/lbischof/dashing-aare-temperatur/master/aare.gif)
 
+https://gitlab.com/lbischof/dashing-aare-temperatur
+![Moved to GitLab](https://i.imgur.com/wGgvnPq.png)
+
 # Description
 Widget for [Dashing](http://dashing.io/) that shows the temperature of the Aare in Berne. Data is from http://www.aare.guru
 
